@@ -1,8 +1,4 @@
-
-[![Build Status](https://dev.azure.com/jink10827/TailspinDemo/_apis/build/status/kyojin300.ContosoAir?branchName=master)](https://dev.azure.com/jink10827/TailspinDemo/_build/latest?definitionId=6&branchName=master)
-
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/jink10827/Tailspin/_apis/build/status/TailspinDemo%20(3)?branchName=main)](https://dev.azure.com/jink10827/Tailspin/_build/latest?definitionId=4&branchName=main)
 
 # Microsoft.Github CI Demo
 
